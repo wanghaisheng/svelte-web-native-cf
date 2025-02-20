@@ -1,4 +1,4 @@
-# Svelte Native
+# Svelte Native web
 
 This template allows you to create native applications for Android and iOS using svelte (v4), tailwind, capacitor, konsta UI, shadcn-svelte.
 
